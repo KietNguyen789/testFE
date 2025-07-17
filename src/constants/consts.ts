@@ -1,0 +1,1 @@
+export const open_ai_key = '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'
