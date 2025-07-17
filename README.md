@@ -35,9 +35,9 @@ src/
 
 ## Thêm 3 dòng này vào .env:
 
-VITE_OPENAI_API_KEY = YOUR_OPENAI_KEY
-VITE_ORG_ID = org-6mQvIyHoa9gZRHm87DvzJFF0
-VITE_PROJECT_ID = proj_YUJbQ0uK7AjvJVAie3FCdR0P
+- VITE_OPENAI_API_KEY = YOUR_OPENAI_KEY
+- VITE_ORG_ID = org-6mQvIyHoa9gZRHm87DvzJFF0
+- VITE_PROJECT_ID = proj_YUJbQ0uK7AjvJVAie3FCdR0P
 
 ```bash
 npm install
